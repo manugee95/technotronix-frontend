@@ -1,0 +1,114 @@
+{
+    "carousel": [
+        {
+            "id": 1,
+            "img": "/img/benz-banner.jpg"
+        },
+        {
+            "id": 2,
+            "img": "/img/lexus-banner.jpg"
+        },
+        {
+            "id": 3,
+            "img": "/img/toyota_banner.jpg"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Lexus 470",
+            "img": "/img/Lexus.jpg",
+            "price": 400,
+            "featured": true,
+            "topSelling": false
+        },
+        {
+            "id": 2,
+            "name": "Benz E500",
+            "img": "/img/benz-1.jpeg",
+            "price": 450,
+            "featured": true,
+            "topSelling": false
+        },
+        {
+            "id": 3,
+            "name": "Honda Accord",
+            "img": "/img/Honda-1.jpg",
+            "price": 300,
+            "featured": true,
+            "topSelling": false
+        },
+        {
+            "id": 4,
+            "name": "Toyota Camry",
+            "img": "/img/Toyota-3.jpg",
+            "price": 320,
+            "featured": true,
+            "topSelling": false
+        },
+        {
+            "id": 5,
+            "name": "Lexus Rx350",
+            "img": "/img/lexus-1.jpg",
+            "price": 740,
+            "featured": false,
+            "topSelling": true
+        },
+        {
+            "id": 6,
+            "name": "Lexus ES350",
+            "img": "/img/lexus-4.jpeg",
+            "price": 620,
+            "featured": false,
+            "topSelling": false
+        },
+        {
+            "id": 7,
+            "name": "Benz C300",
+            "img": "/img/benz-3.jpeg",
+            "price": 550,
+            "featured": false,
+            "topSelling": true
+        },
+        {
+            "id": 8,
+            "name": "Benz GLE 450",
+            "img": "/img/benz-4.jpg",
+            "price": 850,
+            "featured": false,
+            "topSelling": false
+        },
+        {
+            "id": 9,
+            "name": "Honda Civic",
+            "img": "/img/Honda-3.png",
+            "price": 350,
+            "featured": false,
+            "topSelling": true
+        },
+        {
+            "id": 10,
+            "name": "Honda Oba",
+            "img": "/img/Honda-4.jpg",
+            "price": 330,
+            "featured": false,
+            "topSelling": false
+        },
+        {
+            "id": 11,
+            "name": "Toyota Corolla",
+            "img": "/img/toyota-1.jpg",
+            "price": 230,
+            "featured": false,
+            "topSelling": true
+        },
+        {
+            "id": 12,
+            "name": "Toyota Avensis",
+            "img": "/img/Toyota-2.jpg",
+            "price": 260,
+            "featured": false,
+            "topSelling": false
+        }
+    ]
+}
